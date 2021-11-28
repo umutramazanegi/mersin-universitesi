@@ -1,0 +1,16 @@
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\bin\Debug\net5.0\AskeriPersonelKayit.exe
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\bin\Debug\net5.0\AskeriPersonelKayit.deps.json
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\bin\Debug\net5.0\AskeriPersonelKayit.runtimeconfig.json
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\bin\Debug\net5.0\AskeriPersonelKayit.runtimeconfig.dev.json
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\bin\Debug\net5.0\AskeriPersonelKayit.dll
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\bin\Debug\net5.0\ref\AskeriPersonelKayit.dll
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\bin\Debug\net5.0\AskeriPersonelKayit.pdb
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.csproj.AssemblyReference.cache
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.AssemblyInfoInputs.cache
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.AssemblyInfo.cs
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.csproj.CoreCompileInputs.cache
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.dll
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\ref\AskeriPersonelKayit.dll
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.pdb
+C:\Users\umut-\Desktop\AskeriPersonelKayit\AskeriPersonelKayit\obj\Debug\net5.0\AskeriPersonelKayit.genruntimeconfig.cache
