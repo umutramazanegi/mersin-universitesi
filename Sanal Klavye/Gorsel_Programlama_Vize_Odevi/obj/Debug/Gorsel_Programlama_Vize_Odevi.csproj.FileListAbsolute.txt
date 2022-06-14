@@ -1,0 +1,30 @@
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.exe.config
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.exe
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.pdb
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csprojAssemblyReference.cache
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.Properties.Resources.resources
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.Form1.resources
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csproj.GenerateResource.cache
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.exe
+C:\Users\l\Desktop\Görsel Programlama\Gorsel_Programlama_Vize_Odevi\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.pdb
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.exe.config
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.exe
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.pdb
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csprojAssemblyReference.cache
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.Properties.Resources.resources
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.Form1.resources
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csproj.GenerateResource.cache
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.exe
+C:\Users\l\Desktop\Görsel Programlama\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.pdb
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.exe.config
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.exe
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\bin\Debug\Gorsel_Programlama_Vize_Odevi.pdb
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csproj.AssemblyReference.cache
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.Properties.Resources.resources
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.Form1.resources
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csproj.GenerateResource.cache
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.csproj.CoreCompileInputs.cache
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.exe
+H:\2.SINIF 2 . DÖNEM\Umut Ramazan Eği 19-701-028 Gorsel_Programlama_Vize_Odevi Umut Ramazan Eği 19-701-028\Gorsel_Programlama_Vize_Odevi\obj\Debug\Gorsel_Programlama_Vize_Odevi.pdb
