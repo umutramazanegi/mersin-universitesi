@@ -1,0 +1,26 @@
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\bin\Debug\piramidodevi.exe
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\bin\Debug\piramidodevi.pdb
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\bin\Debug\Tao.OpenGl.dll
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\bin\Debug\Tao.OpenGl.xml
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\obj\Debug\piramidodevi.csproj.AssemblyReference.cache
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\obj\Debug\piramidodevi.Form1.resources
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\obj\Debug\piramidodevi.Properties.Resources.resources
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\obj\Debug\piramidodevi.csproj.GenerateResource.cache
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\obj\Debug\piramidodevi.csproj.CoreCompileInputs.cache
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\obj\Debug\piramidodevi.exe
+C:\Users\umut-\Desktop\piramidodevi\piramidodevi\obj\Debug\piramidodevi.pdb
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\bin\Debug\piramidodevi.exe
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\bin\Debug\piramidodevi.pdb
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\bin\Debug\Tao.OpenGl.dll
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\bin\Debug\Tao.Platform.Windows.dll
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\bin\Debug\Tao.OpenGl.xml
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\bin\Debug\Tao.Platform.Windows.xml
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\obj\Debug\piramidodevi.csproj.AssemblyReference.cache
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\obj\Debug\piramidodevi.Form1.resources
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\obj\Debug\piramidodevi.Properties.Resources.resources
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\obj\Debug\piramidodevi.csproj.GenerateResource.cache
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\obj\Debug\piramidodevi.csproj.CoreCompileInputs.cache
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\obj\Debug\piramidodevi.exe
+H:\Mersin Üniversitesi\3.sınıf 1dönem\piramidodevi\piramidodevi\obj\Debug\piramidodevi.pdb
